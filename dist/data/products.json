@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro Max",
+    "price": 1399,
+    "oldPrice": 1599,
+    "image": "/assets/iphone14pro.png"
+  },
+  {
+    "id": 2,
+    "name": "Apple Watch Series 9 GPS 41mm Starlight",
+    "price": 399,
+    "image": "/assets/apple watch.png"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Air M2",
+    "price": 999,
+    "oldPrice": 1199,
+    "image": "/assets/macbook2.png"
+  },
+  {
+    "id": 4,
+    "name": "Apple AirPods Max - Silver",
+    "price": 549,
+    "image": "/assets/airpods-max.png"
+  },
+  {
+    "id": 5,
+    "name": "iPhone 14 Pro 256GB Deep Purple",
+    "price": 899,
+    "oldPrice": 1099,
+    "image": "/assets/iphone14pro.png"
+  },
+  {
+    "id": 6,
+    "name": "Apple Watch Ultra 49mm",
+    "price": 799,
+    "image": "/assets/apple watch.png"
+  }
+]
